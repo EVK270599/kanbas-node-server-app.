@@ -28,6 +28,8 @@
   },
   "homepage": "https://github.com/EVK270599/kanbas-react-web-app#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.4"
   }
 }
